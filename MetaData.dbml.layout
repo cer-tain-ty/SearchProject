@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="MetaData">
+  <DataContextMoniker Name="/MetaDataDataContext" />
+  <nestedChildShapes>
+    <classShape Id="297efb74-f8c1-4e37-8d69-4ccc3cbe45b7" absoluteBounds="4.125, 1.875, 2, 1.4248478190104168">
+      <DataClassMoniker Name="/MetaDataDataContext/ReutersMetaDataDao" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5a325d11-af74-45d2-8f5f-1e70ea95fb88" absoluteBounds="4.14, 2.335, 1.9700000000000002, 0.86484781901041674" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

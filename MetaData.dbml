@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="master" Class="MetaDataDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\sqlexpress;Initial Catalog=master;Integrated Security=True" SettingsObjectName="VectorModelIRS_2008.Properties.Settings" SettingsPropertyName="masterConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ReutersMetaData" Member="ReutersMetaDataDaos">
+    <Type Name="ReutersMetaDataDao">
+      <Column Name="DocId" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Title" Type="System.String" DbType="VarChar(1000)" CanBeNull="true" />
+      <Column Name="Body" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Date" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

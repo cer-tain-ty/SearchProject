@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="VectorModelIRS-2008">
+</Property><Property Name="Solution File" Value="D:\SearchProject\Assignment1\ArunSundarm-Assignment1\Source\VectorModelIRS-2008\VectorModelIRS-2008.sln">
+</Property><Property Name="Date" Value="Sunday, July 10, 2011">
+</Property><Property Name="Time" Value="9:18 AM">
+</Property></Properties><Event ErrorLevel="0" Project="VectorModelIRS-2008" Source="VectorModelIRS-2008.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="VectorModelIRS-2008" Source="VectorModelIRS-2008.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="VectorModelIRS-2008.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="VectorModelIRS-2008.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="VectorModelIRS-2008" Source="VectorModelIRS-2008.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
