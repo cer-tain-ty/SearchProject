@@ -1,0 +1,10 @@
+C:\Arun\VectorModelIRS\VectorModelIRS-2008\obj\Debug\ResolveAssemblyReference.cache
+C:\Arun\VectorModelIRS\VectorModelIRS-2008\obj\Debug\VectorModelIRS_2008.Properties.Resources.resources
+C:\Arun\VectorModelIRS\VectorModelIRS-2008\obj\Debug\VectorModelIRS.SearchForm.resources
+C:\Arun\VectorModelIRS\VectorModelIRS-2008\obj\Debug\VectorModelIRS-2008.csproj.GenerateResource.Cache
+C:\Arun\VectorModelIRS\VectorModelIRS-2008\bin\Debug\VectorModelIRS-2008.exe.config
+C:\Arun\VectorModelIRS\VectorModelIRS-2008\bin\Debug\VectorModelIRS-2008.exe
+C:\Arun\VectorModelIRS\VectorModelIRS-2008\bin\Debug\VectorModelIRS-2008.pdb
+C:\Arun\VectorModelIRS\VectorModelIRS-2008\obj\Debug\VectorModelIRS-2008.exe
+C:\Arun\VectorModelIRS\VectorModelIRS-2008\obj\Debug\VectorModelIRS-2008.pdb
+C:\Arun\VectorModelIRS\VectorModelIRS-2008\obj\Debug\VectorModelIRS_2008.Detail.resources
