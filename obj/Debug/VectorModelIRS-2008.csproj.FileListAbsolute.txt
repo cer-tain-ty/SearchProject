@@ -8,3 +8,14 @@ C:\Arun\VectorModelIRS\VectorModelIRS-2008\bin\Debug\VectorModelIRS-2008.pdb
 C:\Arun\VectorModelIRS\VectorModelIRS-2008\obj\Debug\VectorModelIRS-2008.exe
 C:\Arun\VectorModelIRS\VectorModelIRS-2008\obj\Debug\VectorModelIRS-2008.pdb
 C:\Arun\VectorModelIRS\VectorModelIRS-2008\obj\Debug\VectorModelIRS_2008.Detail.resources
+C:\Arun\Samples\VectorModelIRS-2008\bin\Debug\VectorModelIRS-2008.exe.config
+C:\Arun\Samples\VectorModelIRS-2008\bin\Debug\VectorModelIRS-2008.exe
+C:\Arun\Samples\VectorModelIRS-2008\bin\Debug\VectorModelIRS-2008.pdb
+C:\Arun\Samples\VectorModelIRS-2008\obj\Debug\ResolveAssemblyReference.cache
+C:\Arun\Samples\VectorModelIRS-2008\obj\Debug\VectorModelIRS_2008.Detail.resources
+C:\Arun\Samples\VectorModelIRS-2008\obj\Debug\VectorModelIRS_2008.Properties.Resources.resources
+C:\Arun\Samples\VectorModelIRS-2008\obj\Debug\VectorModelIRS.SearchForm.resources
+C:\Arun\Samples\VectorModelIRS-2008\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Arun\Samples\VectorModelIRS-2008\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Arun\Samples\VectorModelIRS-2008\obj\Debug\VectorModelIRS-2008.exe
+C:\Arun\Samples\VectorModelIRS-2008\obj\Debug\VectorModelIRS-2008.pdb
