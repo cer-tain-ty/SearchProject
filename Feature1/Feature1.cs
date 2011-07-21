@@ -9,7 +9,7 @@ namespace VectorModelIRS_2008.Feature1
     {
         public int GetResult(int a, int b)
         {
-            return a + b;
+            return a - b;
         }
     }
 }
