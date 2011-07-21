@@ -68,6 +68,7 @@
     </Compile>
     <Compile Include="Feature1\Feature1.cs" />
     <Compile Include="Feature1\Interface1.cs" />
+    <Compile Include="Feature2\Feature2.cs" />
     <Compile Include="IndexBuilder.cs" />
     <Compile Include="InvertedIndex.cs" />
     <Compile Include="MetaData.designer.cs">
@@ -126,6 +127,9 @@
   </ItemGroup>
   <ItemGroup>
     <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Info.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
