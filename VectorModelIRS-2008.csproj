@@ -66,6 +66,8 @@
     <Compile Include="Detail.Designer.cs">
       <DependentUpon>Detail.cs</DependentUpon>
     </Compile>
+    <Compile Include="Feature1\Feature1.cs" />
+    <Compile Include="Feature1\Interface1.cs" />
     <Compile Include="IndexBuilder.cs" />
     <Compile Include="InvertedIndex.cs" />
     <Compile Include="MetaData.designer.cs">
